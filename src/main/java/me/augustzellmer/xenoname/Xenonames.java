@@ -199,6 +199,7 @@ class Xenonames {
             "Bune",
             "Bunnitzol",
             "Cardamon",
+            "Carlos",
             "Cornelius",
             "Crocell",
             "Dablon",
